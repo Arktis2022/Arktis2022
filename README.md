@@ -11,7 +11,7 @@
 
 - 👯 Personal Homepage [https://arktis2022.github.io/](https://arktis2022.github.io/)
 
-- 📫 How to reach me **arktis@qq.com**
+- 📫 How to reach me **arktisx@foxmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
