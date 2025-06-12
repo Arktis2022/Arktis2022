@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arktis2022&label=Profile%20views&color=0e75b6&style=flat" alt="arktis2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arktis2022" alt="arktis2022" /></a> </p>
-
 - 🔭 I’m currently working on [BirthLab](https://birthlab.github.io/en/index.html)
 
 - 🌱 I’m currently learning **Medical image analysis, Deep learning, MRI**
