@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BirthLab](https://birthlab.github.io/en/index.html)
 
-- 🌱 I’m currently learning **Medical image analysis, Deep learning, MRI**
+- 🌱 I’m currently learning **Medical image analysis, AI for Neuroscience, Fetal MRI**
 
 - 👯 Personal Homepage [https://arktis2022.github.io/](https://arktis2022.github.io/)
 
